@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Bakery</title>
+</head>
+<body style="background-color:pink; text-align:center; font-family:Arial;">
+
+    <h1 style="color:red;">Welcome to My Bakery 🍰</h1>
+
+    <h2>Our Items</h2>
+
+    <p>Chocolate Cake - Rs. 900</p>
+    <p>Strawberry Cupcake - Rs. 150</p>
+    <p>Donut - Rs. 120</p>
+
+    <h2>Contact Us</h2>
+    <p>Phone: 98XXXXXXXX</p>
+    <p>Email: mybakery@gmail.com</p>
+
+    <p style="color:blue;">Thank you for visiting ❤️</p>
+
+</body>
+</html>
