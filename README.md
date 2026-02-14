@@ -1,1 +1,0 @@
-# Rupali-khati-
